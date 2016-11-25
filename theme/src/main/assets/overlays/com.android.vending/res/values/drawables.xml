@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="action_bar_bg_home">*common:color/main</item>
+    <item type="drawable" name="action_bar_bg_apps">*common:color/main</item>
+    <item type="drawable" name="action_bar_bg_books">*common:color/main</item>
+    <item type="drawable" name="action_bar_bg_movies">*common:color/main</item>
+    <item type="drawable" name="action_bar_bg_music">*common:color/main</item>
+    <item type="drawable" name="action_bar_bg_newsstand">*common:color/main</item>
+  
+  <item type="drawable" name="play_action_button_newsstand_start">*common:color/main</item>
+  <item type="drawable" name="play_action_button_apps_start">*common:color/main</item>
+  <item type="drawable" name="play_action_button_books_start">*common:color/main</item>
+  <item type="drawable" name="play_action_button_movies_start">*common:color/main</item>
+  <item type="drawable" name="play_action_button_multi_start">*common:color/main</item>
+  <item type="drawable" name="play_action_button_music_start">*common:color/main</item>
+  
+   <item type="drawable" name="play_action_button_newsstand">*common:color/main</item>
+  <item type="drawable" name="play_action_button_apps">*common:color/main</item>
+  <item type="drawable" name="play_action_button_books">*common:color/main</item>
+  <item type="drawable" name="play_action_button_movies">*common:color/main</item>
+  <item type="drawable" name="play_action_button_multi">*common:color/main</item>
+  <item type="drawable" name="play_action_button_music">*common:color/main</item>
+ 
+
+  <item type="drawable" name="play_action_button_newsstand_base">*common:color/main</item>
+  <item type="drawable" name="play_action_button_apps_base">*common:color/main</item>
+  <item type="drawable" name="play_action_button_books_base">*common:color/main</item>
+  <item type="drawable" name="play_action_button_movies_base">*common:color/main</item>
+  <item type="drawable" name="play_action_button_multi_base">*common:color/main</item>
+  <item type="drawable" name="play_action_button_music_base">*common:color/main</item>
+ 
+
+ 
+   </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="browsertab_add">*common:color/main</item>
+    <item type="drawable" name="browsertab_add_focused">*common:color/main</item>
+    <item type="drawable" name="browsertab_inactive">*common:color/main</item>
+    <item type="drawable" name="bg_browsertabs">*common:color/main</item>
+    
+   
+</resources>

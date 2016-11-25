@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="Theme.SettingsBase" parent="@android:style/Theme.Material.Settings">
+        <item name="android:colorAccent">*common:color/main</item>
+        <item name="android:colorPrimary">*common:color/main</item>
+        <item name="android:colorControlActivated">*common:color/main</item>
+        <item name="android:colorPrimaryDark">*common:color/main</item>
+        <item name="android:colorBackground">#ffffff</item>
+        <item name="android:listDivider">@*android:color/transparent</item>
+    </style>
+    
+
+    <style name="Theme.Material.Settings" parent="@android:style/Theme.Material">
+        <item name="android:colorPrimary">*common:color/main</item>
+        <item name="android:colorPrimaryDark">*common:color/main</item>
+        <item name="android:colorAccent">*common:color/main</item>
+    </style>
+
+</resources>

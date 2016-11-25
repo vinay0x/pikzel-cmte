@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="statusbar_drawable">*common:color/main</item>
+    <item type="drawable" name="bg_material_selectionbar">*common:color/main</item>
+    <item type="drawable" name="bg_material_titlebar">*common:color/main</item>
+    <item type="drawable" name="bg_material_statusbar">*common:color/main</item>
+    <item type="drawable" name="bg_header">*common:color/main</item>
+   
+</resources>

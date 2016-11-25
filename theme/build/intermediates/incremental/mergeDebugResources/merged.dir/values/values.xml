@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="theme_author">CyanogenMod</string>
+    <string name="theme_email">email@goes.here</string>
+    <string name="theme_name">Theme Template</string>
+</resources>

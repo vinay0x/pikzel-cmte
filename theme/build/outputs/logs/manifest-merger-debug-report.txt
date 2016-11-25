@@ -1,0 +1,57 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:17:1-32:12
+	package
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:18:5-45
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:17:11-69
+	android:versionCode
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+uses-feature#org.cyanogenmod.theme
+ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:20:5-82
+	android:required
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:20:19-42
+	android:name
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:20:43-79
+uses-sdk
+ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:22:5-74
+	android:targetSdkVersion
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:22:42-71
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:22:15-41
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+		INJECTED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml
+meta-data#org.cyanogenmod.theme.name
+ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:24:5-94
+	android:value
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:24:58-92
+	android:name
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:24:16-57
+meta-data#org.cyanogenmod.theme.author
+ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:25:5-99
+	android:value
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:25:60-96
+	android:name
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:25:16-59
+meta-data#org.cyanogenmod.theme.email
+ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:26:5-97
+	android:value
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:26:59-94
+	android:name
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:26:16-58
+application
+ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:28:5-30:45
+	android:hasCode
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:28:18-41
+	android:label
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:30:9-43
+	android:icon
+		ADDED from /Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/AndroidManifest.xml:29:9-43

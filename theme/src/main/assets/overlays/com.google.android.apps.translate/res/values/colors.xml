@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+     <color name="accent">*common:color/main</color>
+<!---->
+    <color name="accent_dark">*common:color/main</color>
+<!---->
+    <color name="primary_blue">*common:color/main</color>
+<!---->
+  
+  
+    <color name="card_pressed_background">*common:color/main</color>
+    <color name="card_pressed_background_dark">*common:color/main</color>
+    <color name="accent_material_light">*common:color/main</color>
+    <color name="primary_blue_dark">*common:color/main</color>
+
+
+  
+</resources>

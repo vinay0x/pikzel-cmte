@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Statusbar Color -->
+    <color name="action_bar_background_color_dark">*common:color/main</color>    
+    <color name="archived_conversation_action_bar_background_color_dark">*common:color/main</color>
+    <color name="fab_pressed_color">*common:color/main</color>
+    <color name="archived_conversation_action_bar_background_color">*common:color/main</color>
+
+    
+    <!-- Actionbar Color -->
+    <color name="primary_color">*common:color/main</color>
+    <color name="mms_indicator_color">*common:color/main</color>
+    <color name="call_subject_button">*common:color/main</color>
+    
+    <!-- No change -->
+    <color name="background_primary">*common:color/main</color>
+    <color name="material_grey_50">*common:color/main</color>
+    <color name="timestamp_text_outgoing">*common:color/main</color>
+    <color name="message_text_color_outgoing">*common:color/main</color>
+    
+    <!-- Accents -->
+    <color name="message_bubble_color_selected">*common:color/main</color>
+    <color name="letter_tile_red_color">*common:color/main</color>
+    <color name="letter_tile_pink_color">*common:color/main</color>
+    <color name="letter_tile_purple_color">*common:color/main</color>
+    <color name="letter_tile_deep_purple_color">*common:color/main</color>
+    <color name="letter_tile_indigo_color">*common:color/main</color>
+    <color name="letter_tile_blue_color">*common:color/main</color>
+    <color name="letter_tile_light_blue_color">*common:color/main</color>
+    <color name="letter_tile_cyan_color">*common:color/main</color>
+    <color name="letter_tile_teal_color">*common:color/main</color>
+    <color name="letter_tile_green_color">*common:color/main</color>
+    <color name="letter_tile_light_green_color">*common:color/main</color>
+    <color name="letter_tile_orange_color">*common:color/main</color>
+    <color name="letter_tile_deep_orange_color">*common:color/main</color>
+    <color name="letter_tile_grey_color">*common:color/main</color>
+    <color name="letter_tile_red_color_dark">*common:color/main</color>
+    <color name="letter_tile_pink_color_dark">*common:color/main</color>
+    <color name="letter_tile_purple_color_dark">*common:color/main</color>
+    <color name="letter_tile_deep_purple_color_dark">*common:color/main</color>
+    <color name="letter_tile_indigo_color_dark">*common:color/main</color>
+    <color name="letter_tile_blue_color_dark">*common:color/main</color>
+    <color name="letter_tile_light_blue_color_dark">*common:color/main</color>
+    <color name="letter_tile_cyan_color_dark">*common:color/main</color>
+    <color name="letter_tile_teal_color_dark">*common:color/main</color>
+    <color name="letter_tile_green_color_dark">*common:color/main</color>
+    <color name="letter_tile_light_green_color_dark">*common:color/main</color>
+    <color name="letter_tile_orange_color_dark">*common:color/main</color>
+    <color name="letter_tile_deep_orange_color_dark">*common:color/main</color>
+    <color name="letter_tile_grey_color_dark">*common:color/main</color>
+</resources>

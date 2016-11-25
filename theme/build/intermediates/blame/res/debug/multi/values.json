@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "/Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 719,
+                        "endColumn": 52,
+                        "endOffset": 767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 55,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "/Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 772,
+                        "endColumn": 55,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 53,
+                    "endOffset": 213
+                },
+                "from": {
+                    "file": "/Users/Vinay/projects/android_packages_themes_Template-cm-13.0/theme/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 665,
+                        "endColumn": 53,
+                        "endOffset": 714
+                    }
+                }
+            }
+        ]
+    }
+]

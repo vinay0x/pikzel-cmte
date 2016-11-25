@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <color name="material_primary">*common:color/main</color>
+    <color name="button_background_pressed_color">*common:color/main</color>
+    <color name="button_background_focused_color">*common:color/main</color>
+    <color name="material_dark">*common:color/main</color>
+    <color name="bottom_bar_background">#00ffffff</color>
+
+  
+</resources>

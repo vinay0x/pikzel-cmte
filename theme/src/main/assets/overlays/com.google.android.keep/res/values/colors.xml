@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <color name="accent">*common:color/main</color>
+    <color name="accent_dark">*common:color/main</color>  
+    <color name="drawer_selected_color">*common:color/main</color>
+    <color name="action_bar_background_color">*common:color/main</color>
+    <color name="primary_material_dark">*common:color/main</color>
+    <color name="active_action_bar_background_color">*common:color/main</color>
+    <color name="primary_material_light">*common:color/main</color>
+    <color name="primary_dark_material_dark">*common:color/main</color>
+    <color name="primary_dark_material_light">*common:color/main</color>
+    <color name="primary_color_dark">*common:color/main</color>
+    <color name="accent_color">*common:color/main</color>
+    <color name="primary_color">*common:color/main</color>
+    <color name="action_bar_text_color">#ffffff</color>
+</resources>

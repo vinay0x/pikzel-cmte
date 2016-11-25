@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+ 
+    <color name="play_action_button_pressed_grey">*common:color/main</color>
+    <color name="account_selector_background">*common:color/main</color>
+    <color name="action_bar_selected_bg">*common:color/main</color>
+    <color name="apps_dark">*common:color/main</color>
+    <color name="apps_primary">*common:color/main</color>
+    <color name="apps_primary_disabled">*common:color/main</color>
+    <color name="apps_secondary">*common:color/main</color>
+    <color name="books_primary">*common:color/main</color>
+    <color name="books_primary_disabled">*common:color/main</color>
+    <color name="books_secondary">*common:color/main</color>
+    <color name="magazines_primary">*common:color/main</color>
+    <color name="magazines_primary_disabled">*common:color/main</color>
+    <color name="magazines_secondary">*common:color/main</color>
+    <color name="movies_primary">*common:color/main</color>
+    <color name="movies_primary_disabled">*common:color/main</color>
+    <color name="movies_secondary">*common:color/main</color>
+    <color name="multi_primary">*common:color/main</color>
+    <color name="multi_primary_disabled">*common:color/main</color>
+    <color name="multi_secondary">*common:color/main</color>
+    <color name="music_primary">*common:color/main</color>
+    <color name="music_primary_disabled">*common:color/main</color>
+    <color name="music_secondary">*common:color/main</color>
+    <color name="newsstand_primary">*common:color/main</color>
+    <color name="newsstand_secondary">*common:color/main</color>
+    <color name="play_action_bar_selected_bg">*common:color/main</color>
+    <color name="play_apps_primary">*common:color/main</color>
+    <color name="play_books_primary">*common:color/main</color>
+    <color name="play_books_secondary">*common:color/main</color>
+    <color name="play_movies_primary">*common:color/main</color>
+    <color name="play_movies_secondary">*common:color/main</color>
+    <color name="play_multi_primary">*common:color/main</color>
+    <color name="play_multi_secondary">*common:color/main</color>
+    <color name="play_music_primary">*common:color/main</color>
+    <color name="play_music_secondary">*common:color/main</color>
+    <color name="play_newsstand_primary">*common:color/main</color>
+    <color name="play_newsstand_secondary">*common:color/main</color>
+    <color name="play_tab_strip_bottom">#00fff000</color>
+    <color name="play_tab_strip_side">#00fff000</color>
+    <color name="sliding_tab_text_color_active">*common:color/main</color>
+    <color name="accent">*common:color/main</color>
+<!---->
+    <color name="ab_color">*common:color/main</color>
+<!---->
+
+ <color name="play_fg_tabs">*common:color/main</color>
+
+ </resources>

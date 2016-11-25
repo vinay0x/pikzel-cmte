@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><resources>
+    <color name="accent">*common:color/main</color>
+    <color name="accent_dark">*common:color/main</color>
+</resources>
